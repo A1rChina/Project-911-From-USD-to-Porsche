@@ -1,7 +1,9 @@
 # Project 911: From USD to Porsche
 
 <div align="center">
-  <img src="assets/logo.png" alt="Porsche 911 Silhouette" width="600" onerror="this.src='https://raw.githubusercontent.com/A1rChina/Project-911-From-USD-to-Porsche/refs/heads/main/assets/logo.png';"/>
+  <a href="#">
+    <img src="assets/logo.png" alt="Porsche 911 Silhouette" width="600"/>
+  </a>
   <br/><br/>
   
   [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)

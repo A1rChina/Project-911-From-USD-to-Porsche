@@ -33,6 +33,10 @@
 
 *(以下数据由 Go 脚本每日基于 `data/ledger.csv` 自动生成)*
 
+<div align="center">
+  <img src="assets/equity_curve.png" alt="Equity Curve" width="100%">
+</div>
+
 | Metric | Value | Description |
 | :--- | :--- | :--- |
 | **Initial Capital** | `$911.00` | 种子资金 |

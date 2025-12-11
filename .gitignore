@@ -1,0 +1,4 @@
+# Security
+config.json
+secrets.yaml
+.env

@@ -1,7 +1,7 @@
 # Project 911: From USD to Porsche
 
 <div align="center">
-  <img src="assets/logo.png" alt="Porsche 911 Silhouette" width="600" onerror="this.src='https://content-hub.imgix.net/uY7TMZi6VoEH9pcgCtVUc/c8d0fedc8f6508217c5af85ddb86dbad/hero-desktop-Porsche_911_GT3_RS_in_silhouette_at_sunset_.jpg?w=2064';"/>
+  <img src="assets/logo.png" alt="Porsche 911 Silhouette" width="600" onerror="this.src='https://raw.githubusercontent.com/A1rChina/Project-911-From-USD-to-Porsche/refs/heads/main/assets/logo.png';"/>
   <br/><br/>
   
   [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
